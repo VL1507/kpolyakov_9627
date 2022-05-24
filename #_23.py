@@ -1,3 +1,4 @@
+# задание 23
 def f(x, y):
     if x > y or x == 10:
         return 0
