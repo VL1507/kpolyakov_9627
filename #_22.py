@@ -7,9 +7,9 @@ def f(n):
     return i % 15
 
 
-for i in range(10, 100):
-    if f(i) == 0:
-        print(i)
+for j in range(10, 100):
+    if f(j) == 0:
+        print(j)
         
 '''
 15
